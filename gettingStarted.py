@@ -18,7 +18,7 @@ def welcome_assignment_answers(question):
     elif question == "Is a hashed message supposed to be un-hashed? - Yes/No":
         answer = "No"
     elif question == "What is the SHA256 hashing value of your NYU email and use the answer in your code - ":
-        answer = "5e65b56ba49a4c03d24e5f1c5981145cd8f85a8c006cd1073353ee621d2beec2"
+        answer = "fa2a160ca9f8f13fed7c668f8b8608838dd6b5307103b9067537b93770890ab6"
     elif question == "Is MD5 a secured hashing algorithm? - Yes/No":
         answer = "No"
     elif question == "What layer of the TCP/IP model does the protocol DNS belong to? - The answer should be an integer number":
